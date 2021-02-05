@@ -14,3 +14,5 @@ mod these lines
   - "IMAGES=sridnona/crispresso, sridnona/mutation_caller, sridnona/rnaseq_docker"
        # - "ORGS=sridnona"
 ```
+
+![](metrics.gif)
