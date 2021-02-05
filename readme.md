@@ -6,13 +6,14 @@
 
 
 # misc
-tweak the input params in the stack yaml to query for either the 
-all the repos under an user name or particular repo's
+tweak the input params in the stack yaml to query   
+for either all repos in side a username/Organization    
+or one single particular repo.   
 
-mod these lines in the yml  stack
+mod these lines in the yml stack   
 ```
   - "IMAGES=sridnona/crispresso, sridnona/mutation_caller, sridnona/rnaseq_docker"
-       # - "ORGS=sridnona"
+  - "ORGS=sridnona"
 ```
 
 ![](metrics.gif)
