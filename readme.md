@@ -9,7 +9,7 @@ https://github.com/vegasbrianc/docker-pulls/blob/master/prometheus.yml
 tweak the input params in the stack yaml to query for either the 
 all the repos under an user name or particular repo's
 
-mod these lines
+mod these lines in the yml  stack
 ```
   - "IMAGES=sridnona/crispresso, sridnona/mutation_caller, sridnona/rnaseq_docker"
        # - "ORGS=sridnona"
